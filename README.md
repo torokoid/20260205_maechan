@@ -183,7 +183,7 @@ p.note { display: none; }
 <h2><span class="yellow">屋根上の定位置は鳩が占拠</span></h2>
 <a href="20260205_005.JPG" target="_blank"><img src="20260205_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">逸れたヒヨコ達を、じっと見つめるワンコ</span></h2>
+<h2><span class="yellow">巣からこぼれて保護したヒヨコ達を、じっと見つめるワンコ</span></h2>
 <a href="20260205_006.JPG" target="_blank"><img src="20260205_006.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">恐れ知らずのヒヨコが寄っていきました</span></h2>
