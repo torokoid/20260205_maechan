@@ -226,7 +226,7 @@ p.note { display: none; }
 <h2><span class="yellow">花壇のサルビアが咲き始めたます</span></h2>
 <a href="20260205_022.JPG" target="_blank"><img src="20260205_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">早崎の一株をアップでパチリ！</span></h2>
+<h2><span class="yellow">早咲きの一株をアップでパチリ！</span></h2>
 <a href="20260205_023.JPG" target="_blank"><img src="20260205_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">プールに入ると常連さんの男子が声をかけてくれました</span></h2>
