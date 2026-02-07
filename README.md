@@ -356,7 +356,7 @@ p.note { display: none; }
     <h2><a href="https://www.astroarts.co.jp/article/hl/a/13373_mook-cma" target="_blank"><span class="snow">おおいぬ座とは</span></a></h2>
 -->    
 <h2><span class="yellow">冬の大三角形、説明リンク貼りますね</span></h2>
-    <h2>><a href="https://www.kenko-tokina.co.jp/special/celestial/201601_sorawomiyou.html" target="_blank"><span class="snow">冬の大三角形とは</span></a></h2>
+    <h2><a href="https://www.kenko-tokina.co.jp/special/celestial/201601_sorawomiyou.html" target="_blank"><span class="snow">冬の大三角形とは</span></a></h2>
 
 <h2><span class="yellow">すばる、説明リンクします</span></h2>
     <h2><a href="https://www.kahaku.go.jp/exhibitions/vm/resource/tenmon/space/nebula/nebula02.html" target="_blank"><span class="snow">すばるとは</span></a></h2>
